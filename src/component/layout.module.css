@@ -4,8 +4,12 @@
     font-family: sans-serif;
 }
 
+.site-title {
+    color: teal;
+}
+
 .heading {
-    color:teal;
+    color: teal;
 }
 
 .nav-links {
